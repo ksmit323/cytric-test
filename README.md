@@ -21,5 +21,5 @@
     - https://cytric-test-wy70.onrender.com/
 
 * Loom Video:
-    - Coming to a theatre near you... actually give me a min
+    - https://www.loom.com/share/836117f1f09d4edeb23feefc2974a2c2?sid=a88a4fcc-070e-463d-ad9a-0986a8584262
   
