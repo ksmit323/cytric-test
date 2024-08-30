@@ -5,7 +5,6 @@ import {Script, console} from "lib/forge-std/src/Script.sol";
 import {CytricToken} from "../src/CytricToken.sol";
 
 contract DeployCytricToken is Script {
-
     uint256 deployerPrivateKey = vm.envUint("PRIVATE_KEY");
 
     function run() external {
