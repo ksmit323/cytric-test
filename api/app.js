@@ -48,7 +48,7 @@ app.get("/staking-info/:address", async (req, res) => {
 // Get token supply
 app.get("/solana/token-supply", async (req, res) => {
     try {
-        const totalSupply = await solanaConnection.getSupply(splTokenAddress);
+        const totalSupply = await solanaConnection.getSupply(tokenPublicKey);
 
         res.json({
             totalSupply: totalSupply.value.total
